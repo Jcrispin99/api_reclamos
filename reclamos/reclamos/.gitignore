@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno virtual
+venv/
+
+# Archivos temporales
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite3
+nohup.out
+
+# Archivos del editor
+.vscode/
+*.swp
+.DS_Store
+.idea/
+.env
