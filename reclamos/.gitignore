@@ -1,0 +1,16 @@
+# Ignorar entorno virtual
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos de base de datos y logs
+db.sqlite3
+*.log
+nohup.out
+
+# Archivos de configuración del sistema
+.DS_Store
+*.swp
+
