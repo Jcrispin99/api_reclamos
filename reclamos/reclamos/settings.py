@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-aijq2ey@wlyq43p61nm!j72772t#p&#w=k^a60)=5@28fn%1@p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['api-reclamos.olymporestobar.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
